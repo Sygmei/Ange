@@ -1,6 +1,14 @@
 [package]
 name = "ange"
+description = "Shell functions made easy"
+homepage = "https://ange.rs"
+documentation = "https://github.com/Sygmei/Ange/wiki"
+repository = "https://github.com/Sygmei/Ange"
+readme = "README.md"
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+keywords = ["shell", "lua"]
+categories = ["command-line-utilities"]
 
 [dependencies]
